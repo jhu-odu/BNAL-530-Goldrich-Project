@@ -1,0 +1,110 @@
+[
+  {
+    "team": "1",
+    "title": "Distance and Arrival Punctuality",
+    "file": "team-1-template.xlsx",
+    "download_name": "Team 1 - Distance and Arrival Punctuality - Template.xlsx",
+    "points": [
+      8,
+      10,
+      14,
+      12,
+      10,
+      6
+    ],
+    "sha256": "d6eaaffbac0b75ffac668bb1c35085fdd84d96ec73eeb5b0aade118e2edff0f1"
+  },
+  {
+    "team": "2",
+    "title": "Geography and Clinic Operations",
+    "file": "team-2-template.xlsx",
+    "download_name": "Team 2 - Geography and Clinic Operations - Template.xlsx",
+    "points": [
+      8,
+      12,
+      14,
+      10,
+      8,
+      8
+    ],
+    "sha256": "09ff7c7bf721a42e0b58c03e92024fc0d76855a07d0d9007869aacfae7c4f221"
+  },
+  {
+    "team": "3",
+    "title": "Day Shift and Appointment Mix",
+    "file": "team-3-template.xlsx",
+    "download_name": "Team 3 - Day Shift and Appointment Mix - Template.xlsx",
+    "points": [
+      8,
+      8,
+      14,
+      16,
+      8,
+      6
+    ],
+    "sha256": "06ed60cfc9bc9b9d84c9872904fdaef98265f4f8e501b27f7e8c41193f86f067"
+  },
+  {
+    "team": "4",
+    "title": "Session Flow and Delays",
+    "file": "team-4-template.xlsx",
+    "download_name": "Team 4 - Session Flow and Delays - Template.xlsx",
+    "points": [
+      8,
+      8,
+      14,
+      16,
+      8,
+      6
+    ],
+    "sha256": "bbc5c6148a03d2d23ba86b10ac66a168579dadd1607a65d97afc9d4e39576c7d"
+  },
+  {
+    "team": "5",
+    "title": "Weather and Clinic Attendance",
+    "file": "team-5-template.xlsx",
+    "download_name": "Team 5 - Weather and Clinic Attendance - Template.xlsx",
+    "points": [
+      8,
+      8,
+      14,
+      16,
+      8,
+      6
+    ],
+    "sha256": "18ed1fb05abe1e73bd1e69f0dd0fe05008c77677093f2d07408b5ee77f284b42"
+  },
+  {
+    "team": "X",
+    "title": "Clinic Operations Consulting",
+    "file": "team-x-template.xlsx",
+    "download_name": "Team X - Clinic Operations Consulting - Template.xlsx",
+    "points": [
+      16,
+      6,
+      18,
+      8,
+      6,
+      6
+    ],
+    "sha256": "264d03b1aae0062597194b73a3a280dc2cf6fb09f2d3838674644400c28249af"
+  },
+  {
+    "title": "Clinic Appointment Student Dataset",
+    "file": "student-appointments.xlsx",
+    "download_name": "Clinic Appointment Student Dataset.xlsx",
+    "sha256": "8573f3468a83a9b44c7fbf7decf5cf8b290560aafe3f7b98afabb5aa91763b7f"
+  },
+  {
+    "title": "Clinic Session Student Dataset",
+    "file": "student-clinic-sessions.xlsx",
+    "download_name": "Clinic Session Student Dataset.xlsx",
+    "sha256": "d25c2a15ce2bc36f187dfc8f46272795e85d70ecff18dab158cb32f31ed54923"
+  },
+  {
+    "title": "Weather dataset",
+    "file": "weather-reference.xlsx",
+    "download_name": "Norfolk_Weather_Reference_2025_2026.xlsx",
+    "sha256": "e9e58ab7fef77451f3166062de209539029abd862943da97160e006bb137430f"
+  }
+]
