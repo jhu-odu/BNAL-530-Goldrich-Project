@@ -1,1 +1,1 @@
-# BNAL-530-Goldrich-Project-
+# BNAL-530-Goldrich-Project
